@@ -1,7 +1,4 @@
-# Welcome
-
-This landing page is hosted on github pages.
-
+# Home
 Some actual content coming soon&trade;
 
 ## Projects -- Pull Requests Welcome!

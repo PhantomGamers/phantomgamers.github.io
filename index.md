@@ -8,6 +8,8 @@ Some actual content coming soon&trade;
 
 * [TellTaleWidescreenPatcher](https://github.com/PhantomGamers/TellTaleWidescreenPatcher) - This program allows you to patch your TellTale games to work with 21:9 resolutions.
 
+* [HeatSignatureFPSChanger](https://github.com/PhantomGamers/HeatSignatureFPSChanger) - This mod allows you to change the FPS cap in the game "Heat Signature." By default the game limits you to 30 or 60 fps, with this you can specify the framerate cap you desire. Useful for people with high refresh rate monitors or sensitivity to input lag.
+
 * [GTA5HK](https://github.com/PhantomGamers/GTA5HK) - This script for autohotkey allows you to automate some functions in GTA 5 Online such as popping snacks for HP and equipping body armor. Hasn't been updated in a while, likely has some issues on the latest version of GTA 5. I will update this on request or when I get the itch.
 
 

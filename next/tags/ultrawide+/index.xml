@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ultrawide&#43; on PhantomGamers</title>
+    <link>http://localhost:1313/tags/ultrawide&#43;/</link>
+    <description>Recent content in Ultrawide&#43; on PhantomGamers</description>
+    <image>
+      <title>PhantomGamers</title>
+      <url>http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phantomgamers&amp;theme=github_dark</url>
+      <link>http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phantomgamers&amp;theme=github_dark</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ultrawide+/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dreamfall Chapters UI Fix</title>
+      <link>http://localhost:1313/posts/dreamfallchaptersuifix/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/dreamfallchaptersuifix/</guid>
+      <description>A fix for the game Dreamfall Chapter&amp;rsquo;s UI when played at ultrawide and wider resolutions</description>
+    </item>
+    <item>
+      <title>Vampire The Masquerade - Heartless Lullaby UI Fix</title>
+      <link>http://localhost:1313/posts/vtmheartlessuifix/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/vtmheartlessuifix/</guid>
+      <description>A fix for the game Vampire The Masquerade - Heartless Lullaby&amp;rsquo;s UI when played at ultrawide and wider resolutions</description>
+    </item>
+    <item>
+      <title>SUWSF</title>
+      <link>http://localhost:1313/posts/suwsf/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/suwsf/</guid>
+      <description>Read about the SUWSF (Somewhat Universal Widescreen Patcher) utility for patching games to enable ultrawide support and more</description>
+    </item>
+    <item>
+      <title>Last Stop Ultrawide Fix</title>
+      <link>http://localhost:1313/posts/laststopuwfix/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/laststopuwfix/</guid>
+      <description>A fix that adds support for ultrawide and wider resolutions to the game Last Stop</description>
+    </item>
+    <item>
+      <title>Telltale Widescreen Patcher</title>
+      <link>http://localhost:1313/posts/telltalewidescreenpatcher/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/telltalewidescreenpatcher/</guid>
+      <description>Read about theTelltale Widescreen Patcher utility for patching games running on the classic Telltale engine to work with ultawide and wider resolutions</description>
+    </item>
+  </channel>
+</rss>

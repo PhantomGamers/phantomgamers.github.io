@@ -14,6 +14,5 @@ Some actual content coming soon&trade;
 
 
 ## Social Links
-* [Follow PhantomGamers on Twitter](https://twitter.com/phantomgamers)  
 * [Follow PhantomGamers on Twitch](https://twitch.tv/phantomgamers)
 * [Subscribe to projectsundergaming on Youtube](https://youtube.com/projectsundergaming)
